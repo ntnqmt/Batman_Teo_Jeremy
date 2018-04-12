@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_text">bonjour</string>
+    <string name="options">Options</string>
+    <string name="notification">Notification</string>
+    <string name="quitter">Quitter</string>
+    <string name="page2">Page2</string>
+    <string name="Access2">Access</string>
+    <string name="Seconde">Seconde</string>
+    <string name="btn_batman">Batman Begins</string>
+    <string name="retour">retour</string>
+
+</resources>

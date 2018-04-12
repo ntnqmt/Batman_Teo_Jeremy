@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Learnig_Android</string>
+    <string name="secondeactivity">secondActivity</string>
+    <string name="button_text">Click</string>
+    <string name="add_notification">Ajouter une notification</string>
+    <string name="options">Options</string>
+    <string name="notification">Notification</string>
+    <string name="quitter">Quitter</string>
+    <string name="Access2">Access</string>
+    <string name="Page2">Deuxiéme page</string>
+    <string name="retour">Retour</string>
+    <string name="btn_batman">Batman Begins</string>
+
+
+</resources>

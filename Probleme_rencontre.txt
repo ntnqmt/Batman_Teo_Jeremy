@@ -1,0 +1,5 @@
+Bonjour,
+
+Nous avons rencontré un problème, Getservice ne recupère pas les informations du json. Du coup nous n'avons pas pu exploiter les informations du 
+
+Cordialement,

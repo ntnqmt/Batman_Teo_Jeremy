@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/option"
+        android:title="@string/options"
+        android:icon="@android:drawable/ic_menu_manage">
+
+        <menu android:id="@+id/sousmenu">
+            <item android:id="@+id/favoris"
+                android:title="Favoris"   />
+
+        </menu>
+</item>
+
+       <item
+        android:id="@+id/quitter"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/quitter"/>
+
+
+
+
+
+
+</menu>

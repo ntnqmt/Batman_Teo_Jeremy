@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context="com.example.hsoumare.learnig_android.MainActivity">
+
+    <Button
+        android:id="@+id/btn_batman_begins"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="@string/btn_batman" />
+
+    <Button
+        android:id="@+id/superman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="batman vs superman: dawn of justice" />
+
+    <Button
+        android:id="@+id/batman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Batman" />
+
+    <Button
+        android:id="@+id/returns"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Batman Returns" />
+
+    <Button
+        android:id="@+id/forever"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Batman Forever" />
+
+    <Button
+        android:id="@+id/robin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Batman and Robin" />
+
+    <Button
+        android:id="@+id/legobatman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The LEGO Batman Movie" />
+
+    <Button
+        android:id="@+id/animated"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Batman: The Animated Series" />
+
+    <Button
+        android:id="@+id/redhood"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Batman: Under the Red Hood" />
+
+    <Button
+        android:id="@+id/darkknight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Batman: The Dark Knight Returns" />
+
+    <Button
+        android:id="@+id/lala"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="notification" />
+
+
+</LinearLayout>

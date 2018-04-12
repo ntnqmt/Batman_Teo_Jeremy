@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Learnig_Android</string>
+    <string name="button_text">Hello</string>
+    <string name="options">options</string>
+    <string name="notification">notification</string>
+    <string name="quitter">Exit</string>
+    <string name="page2">page 2</string>
+    <string name="Access2">Access</string>
+    <string name="Seconde">Seconde</string>
+    <string name="btn_batman">Batman Begins</string>
+    <string name="retour">back</string>
+</resources>
